@@ -1,0 +1,47 @@
+module HSDriedMeats
+{
+    recipe Open Meat Package
+    {
+        // components or items to craft this recipe
+        HS_DriedMeatBag,
+
+        // output
+        Result:TinCanEmpty,
+        Time:60.0,
+        Category:Cooking,
+		OnCreate:Recipe.OnCreate.HSGiveRandomMeat,
+    }e
+        
+    recipe Rehydrate Steak
+    {
+        HS_DriedSteak,
+		Water= 5,
+		
+        Result:Steak,
+        Time:260.0,
+        Category:Cooking,
+		OnGiveXP:Recipe.OnGiveXP.Cooking3,
+    }
+
+    recipe Rehydrate Chicken
+	{
+		HS_DriedChicken,
+		Water= 5,
+
+		Result:Chicken,
+        Time:260.0,
+        Category:Cooking,
+		OnGiveXP:Recipe.OnGiveXP.Cooking3,
+	}
+
+    recipe Rehydrate PorkChop
+	{
+		HS_DriedPorkchop,
+		Water= 5,
+
+		Result:PorkChop,
+        Time:260.0,
+        Category:Cooking,
+		OnGiveXP:Recipe.OnGiveXP.Cooking3,
+	}
+}
