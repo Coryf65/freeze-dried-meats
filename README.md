@@ -2,12 +2,10 @@
 
 A Project Zomboid Mod. adds more food items into the base PZ game.
 
-
 ## Quick Links
 
 - [System Locations](#system-locations)
 - [Project Zomboid Modding links](#project-zomboid-links)
-
 
 ### Mod Details
 
@@ -37,19 +35,22 @@ Need to make:
 
 - spawn file
 
-### Notes
+<details>
+<summary>Tips other Modders and Devs</summary>
 
-*HungerChange = -40,* is filling our hunger bar up by 40%, adding a prefix to the item name prevents mod collisions *HS_DriedSteak*
+Here are some helpful notes and resources I have gathered to build out this mod.
 
-
+Awesome YouTube tutorial by [W. Patrick](https://youtu.be/-yrmCAwzTbY) which is how I made this mod.
 
 ### Tools
 
-- [VSCode extension](https://marketplace.visualstudio.com/items?itemName=asledgehammer.zedscript-vscode)
+- Project Zomboid Game on [Steam here](https://store.steampowered.com/app/108600/Project_Zomboid/) or on the [Indie Stone](https://projectzomboid.com/blog/)
+- for code editing I use [VSCode](https://code.visualstudio.com/)
+- it has an awesome extension for Project Zomboid [PZ extension](https://marketplace.visualstudio.com/items?itemName=asledgehammer.zedscript-vscode) you can also search within VSCode extensions.
 
 ### System Locations
 
-- path to mods folder in zomboid */home/cory/Zomboid/*
+- path to the Project Zomboid mods folder, using Steam */home/cory/Zomboid/*
 - path to my steam pz install */mnt/87018097-feeb-4ec6-8184-f926d4463609/SteamLibrary/steamapps/common/ProjectZomboid/projectzomboid/*
 
 ### Project Zomboid links
@@ -59,3 +60,12 @@ Need to make:
 - [FWolfe Modding Guide](https://github.com/FWolfe/Zomboid-Modding-Guide)
 - [indie stone modding help](https://theindiestone.com/forums/index.php?/forum/53-tutorials-resources/)
 - [procedural map table info](https://theindiestone.com/forums/uploads/monthly_2021_07/1365703137_LootSystemExplainedv3.png.22b583320ed6d26bf096bc45ceee2a28.png)
+
+
+#### My Notes
+
+*HungerChange = -40,* is filling our hunger bar up by 40%, adding a prefix to the item name prevents mod collisions *HS_DriedSteak*
+
+
+
+</details>
