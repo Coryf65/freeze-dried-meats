@@ -43,6 +43,8 @@ Awesome YouTube tutorial by [W. Patrick](https://youtu.be/-yrmCAwzTbY) which is 
 - Project Zomboid Game on [Steam here](https://store.steampowered.com/app/108600/Project_Zomboid/) or on the [Indie Stone](https://projectzomboid.com/blog/)
 - for code editing I use [VSCode](https://code.visualstudio.com/)
 - it has an awesome extension for Project Zomboid [PZ extension](https://marketplace.visualstudio.com/items?itemName=asledgehammer.zedscript-vscode) you can also search within VSCode extensions.
+- Image editor I use [GIMP](https://www.gimp.org/downloads/) feel free to use whatever you are comfortable with. Icons are 32x32 pixels
+
 
 ### System Locations
 
@@ -62,6 +64,6 @@ Awesome YouTube tutorial by [W. Patrick](https://youtu.be/-yrmCAwzTbY) which is 
 
 *HungerChange = -40,* is filling our hunger bar up by 40%, adding a prefix to the item name prevents mod collisions *HS_DriedSteak*
 
-
+Animations actions in folder */media/AnimSets/player/actions/*
 
 </details>
