@@ -1,4 +1,4 @@
-# freeze dries meats
+# freeze dried meats
 
 A Project Zomboid Mod. adds more food items into the base PZ game.
 
@@ -8,6 +8,34 @@ A Project Zomboid Mod. adds more food items into the base PZ game.
 - [System Locations](#system-locations)
 - [Project Zomboid Modding links](#project-zomboid-links)
 
+
+### Mod Details
+
+Find dried meats in the world
+recipe to open the packaging
+random spawn of (steak, porkchop, and chicken)
+dried meats are non-perishable
+can cause unhappiness, boredom, and lots of thirst
+Hunger, calories and fat values are a bit lower than fresh
+adds to player inventory
+3 recipes to add water into the dried meats and convert back to "normal"
+
+Need to make:
+
+- 4 items
+
+    - Dried Meat Package
+    - Dried Steak
+    - Dried Chicken
+    - Dried Pork
+
+- 4 Recipes
+
+    - Open Packaging
+    - Re-Hydrate meat 1 per type
+        - gives cooking xp on re-hydrate
+
+- spawn file
 
 ### Notes
 
