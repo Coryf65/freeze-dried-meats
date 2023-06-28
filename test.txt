@@ -1,0 +1,84 @@
+module Base
+{
+
+    item HS_DriedSteak
+    {
+        DisplayName = Dried Steak,
+        DisplayCategory = Food,
+        Type = Food,
+        Weight = 0.3,
+        Icon = HS_DriedSteak,
+        BadCold = true,
+        BadInMicrowave = true,
+        DangerousUncooked = TRUE,
+        EvolvedRecipe = Pizza:20;Stew:20;Stir fry Griddle Pan:20;Stir fry:20;Sandwich:5|Cooked;Sandwich Baguette:5|Cooked;Salad:10|Cooked;Roasted Vegetables:20;PastaPot:20;PastaPan:20;RicePot:20;RicePan:20;Taco:20|Cooked;Burrito:20|Cooked,
+        FoodType = Beef,
+        GoodHot = true,
+        IsCookable = TRUE,
+        MinutesToCook = 50,
+        MinutesToBurn = 70,
+        DaysFresh = 2,
+        DaysTotallyRotten = 4,
+        HungerChange = -40,
+        Calories = 220,
+        Carbohydrates = 0,
+        Lipids = 9.35,
+        Proteins = 31.62,
+        WorldStaticModel = Steak,
+    }
+
+
+    item HS_DriedChicken
+	{
+		DisplayName = Dried Chicken,
+		DisplayCategory = Food,
+		Type = Food,
+		Weight = 0.3,
+		Icon = HS_DriedChicken,
+		BadInMicrowave = true,
+		DangerousUncooked = TRUE,
+		EvolvedRecipe = Pizza:12;Soup:18;Stew:18;Pie:12;Stir fry Griddle Pan:18;Stir fry:18;Sandwich:6|Cooked;Sandwich Baguette:6|Cooked;Burger:12|Cooked;Salad:6|Cooked;Roasted Vegetables:18;RicePot:18;RicePan:18;PastaPot:18;PastaPan:18;Taco:6|Cooked;Burrito:12|Cooked,
+		FoodType = Poultry,
+		GoodHot = true,
+		IsCookable = TRUE,
+		MinutesToCook = 30,
+		MinutesToBurn = 60,
+		DaysFresh = 2,
+		DaysTotallyRotten = 4,
+		HungerChange = -36,
+		Calories = 150,
+		Carbohydrates = 0,
+		Lipids = 9,
+		Proteins = 18,
+		StaticModel = FriedChicken,
+		WorldStaticModel = Chicken,
+	}
+
+    item HS_DriedPorkChop
+	{
+		DisplayName = Dried Pork Chop,
+		DisplayCategory = Food,
+		Type = Food,
+		Weight = 0.3,
+		Icon = HS_DriedPorkchop,
+		BadCold = true,
+		BadInMicrowave = true,
+		DangerousUncooked = TRUE,
+		EvolvedRecipe = Soup:15;Stew:15;Pie:15;Stir fry Griddle Pan:15;Stir fry:15;Sandwich:5|Cooked;Sandwich Baguette:5|Cooked;Burger:10|Cooked;Salad:10|Cooked;Roasted Vegetables:15;RicePot:15;RicePan:15;PastaPot:15;PastaPan:15,
+		FoodType = Meat,
+		GoodHot = true,
+		IsCookable = TRUE,
+		MinutesToCook = 50,
+		MinutesToBurn = 70,
+		DaysFresh = 2,
+		DaysTotallyRotten = 4,
+		HungerChange = -30,
+		Calories = 150,
+		Carbohydrates = 0,
+		Lipids = 6,
+		Proteins = 25,
+		WorldStaticModel = PorkChop,
+		EvolvedRecipeName = Pork,
+	}
+
+}
