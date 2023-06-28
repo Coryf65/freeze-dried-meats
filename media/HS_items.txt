@@ -1,14 +1,24 @@
-module Base
+module HSDriedMeats
 {
+	item HS_DriedMeatBag
+    {
+        DisplayCategory = Food,
+        Weight = 0.15,
+        Type = Normal,
+        DisplayName	= Dried Meat Bag,
+        Icon = HS_DriedMeatBag,
+    }
+
     item HS_DriedSteak
     {
         DisplayName = Dried Steak,
         DisplayCategory = Food,
         Type = Food,
-        Weight = 0.3,
+        Weight = 0.2,
         Icon = HS_DriedSteak,
         FoodType = DriedMeat,
         HungerChange = -30,
+		ThirstChange = 20,
         Calories = 180,
         Carbohydrates = 0,
         Lipids = 8,
@@ -21,10 +31,11 @@ module Base
 		DisplayName = Dried Chicken,
 		DisplayCategory = Food,
 		Type = Food,
-		Weight = 0.3,
+		Weight = 0.2,
 		Icon = HS_DriedChicken,
 		FoodType = DriedMeat,
 		HungerChange = -26,
+		ThirstChange = 20,
 		Calories = 110,
 		Carbohydrates = 0,
 		Lipids = 8,
@@ -38,10 +49,11 @@ module Base
 		DisplayName = Dried Pork Chop,
 		DisplayCategory = Food,
 		Type = Food,
-		Weight = 0.3,
+		Weight = 0.2,
 		Icon = HS_DriedPorkchop,		
 		FoodType = DriedMeat,
 		HungerChange = -26,
+		ThirstChange = 20,
 		Calories = 110,
 		Carbohydrates = 0,
 		Lipids = 7,
