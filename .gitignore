@@ -41,3 +41,5 @@ luac.out
 
 # Ignore My Sprite editing file
 media/sprites/HS_Images.xcf
+#ignore my examples folder
+/vanilla examples/*
