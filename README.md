@@ -58,4 +58,4 @@ Need to make:
 - [pz Modding Guide](https://pzwiki.net/wiki/Modding)
 - [FWolfe Modding Guide](https://github.com/FWolfe/Zomboid-Modding-Guide)
 - [indie stone modding help](https://theindiestone.com/forums/index.php?/forum/53-tutorials-resources/)
-- [procedural map table info][https://theindiestone.com/forums/uploads/monthly_2021_07/1365703137_LootSystemExplainedv3.png.22b583320ed6d26bf096bc45ceee2a28.png]
+- [procedural map table info](https://theindiestone.com/forums/uploads/monthly_2021_07/1365703137_LootSystemExplainedv3.png.22b583320ed6d26bf096bc45ceee2a28.png)
