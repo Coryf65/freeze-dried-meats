@@ -2,10 +2,6 @@
 
 A Project Zomboid Mod. adds more food items into the base PZ game.
 
-## Quick Links
-
-- [System Locations](#system-locations)
-- [Project Zomboid Modding links](#project-zomboid-links)
 
 ### Mod Details
 
