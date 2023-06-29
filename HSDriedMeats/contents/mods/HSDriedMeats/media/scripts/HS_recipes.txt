@@ -21,7 +21,7 @@ module HSDriedMeats
         Time:260.0,
         Category:Cooking,
 		OnGiveXP:Recipe.OnGiveXP.Cooking3,
-		AnimNode: PourWatering
+		AnimNode:PourWatering
 
     }
 
@@ -34,7 +34,7 @@ module HSDriedMeats
         Time:260.0,
         Category:Cooking,
 		OnGiveXP:Recipe.OnGiveXP.Cooking3,
-		AnimNode: PourWatering
+		AnimNode:PourWatering
 	}
 
     recipe Rehydrate PorkChop
@@ -46,6 +46,6 @@ module HSDriedMeats
         Time:260.0,
         Category:Cooking,
 		OnGiveXP:Recipe.OnGiveXP.Cooking3,
-		AnimNode: PourWatering
+		AnimNode:PourWatering
 	}
 }
