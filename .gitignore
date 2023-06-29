@@ -46,3 +46,6 @@ luac.out
 # links to my local folders
 link to PZ vanilla folder
 link to PZ mods folder
+
+# vscode files
+.vscode/*
