@@ -1,6 +1,6 @@
 module HSDriedMeats
 {
-	item HS_DriedMeatBag
+	item HS_DriedMeatCan
     {
         DisplayCategory = Food,
         Weight = 0.2,

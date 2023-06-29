@@ -2,7 +2,7 @@ module HSDriedMeats
 {
     recipe Open Meat Package
     {
-        HS_DriedMeatBag,
+        HS_DriedMeatCan,
 
         Result:TinCanEmpty,
         Time:60.0,
@@ -32,18 +32,18 @@ module HSDriedMeats
         Time:260.0,
         Category:Cooking,
 		OnGiveXP:Recipe.OnGiveXP.Cooking3,
-		AnimNode:Bob_Water_GardenSpray
+		AnimNode:Pour
 	}
 
     recipe Rehydrate PorkChop
 	{
-		HS_DriedPorkchop,
+		HS_DriedPorkChop,
 		Water= 5,
 
 		Result:PorkChop,
         Time:260.0,
         Category:Cooking,
 		OnGiveXP:Recipe.OnGiveXP.Cooking3,
-		AnimNode:PourKettle
+		AnimNode:Pour
 	}
 }
