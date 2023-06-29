@@ -1,0 +1,9 @@
+module HSDriedMeats
+{
+    model HS_DriedChicken_Ground
+    {
+        mesh=WorldItems/Magazine,
+        texture= WorldItems/name,
+        scale= 0.4,
+    }
+}
