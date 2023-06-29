@@ -43,3 +43,6 @@ luac.out
 **/*.xcf
 #ignore my examples folder
 /vanilla examples/*
+# links to my local folders
+link to PZ vanilla folder
+link to PZ mods folder

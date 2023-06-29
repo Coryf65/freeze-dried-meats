@@ -1,5 +1,6 @@
 --   import Base;
 
+-- Gives a random meat of dried steak, dried chicken, or a dried porkchop 
 function Recipe.OnCreate.HSGiveRandomMeat(items, result, player)
 
     for i = 1, 3, 1 do
