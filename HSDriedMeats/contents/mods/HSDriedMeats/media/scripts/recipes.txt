@@ -16,7 +16,7 @@ module HSDriedMeats
 		Water= 5,
 		
         Result:Steak,
-        Time:260.0,
+        Time:350.0,
         Category:Cooking,
 		OnGiveXP:Recipe.OnGiveXP.Cooking3,
 		AnimNode:Pour
@@ -30,7 +30,7 @@ module HSDriedMeats
 		Water= 5,
 
 		Result:Chicken,
-        Time:260.0,
+        Time:350.0,
         Category:Cooking,
 		OnGiveXP:Recipe.OnGiveXP.Cooking3,
 		AnimNode:Pour
@@ -43,7 +43,7 @@ module HSDriedMeats
 		Water= 5,
 
 		Result:PorkChop,
-        Time:260.0,
+        Time:350.0,
         Category:Cooking,
 		OnGiveXP:Recipe.OnGiveXP.Cooking3,
 		AnimNode:Pour
