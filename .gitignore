@@ -40,6 +40,6 @@ luac.out
 *.hex
 
 # Ignore My Sprite editing file
-**/*..xcf
+**/*.xcf
 #ignore my examples folder
 /vanilla examples/*
