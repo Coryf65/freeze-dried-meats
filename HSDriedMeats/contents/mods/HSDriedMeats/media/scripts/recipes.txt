@@ -5,7 +5,7 @@ module HSDriedMeats
         HS_DriedMeatCan,
 
         Result:TinCanEmpty,
-        Time:60.0,
+        Time:80.0,
         Category:Cooking,
 		OnCreate:Recipe.OnCreate.HSGiveRandomMeat,
     }
