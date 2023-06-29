@@ -1,6 +1,7 @@
-name=HSDriedMeats
+name=Hiddensquid's Dried Meats
 id=HSDriedMeats
+modversion=1.0
 author=Cory F
 url=https://github.com/Coryf65/freeze-dries-meats
-description=Adds some new foods into the game. (Dried Steak, Dried PorkChop, Dried Chicken)
+description=Adds some new foods into the game. (Dried Steak, Dried PorkChop, Dried Chicken) which can be rehydrated.
 poster=HSDriedMeats.png
