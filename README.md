@@ -65,7 +65,7 @@ Awesome YouTube tutorial by [W. Patrick](https://youtu.be/-yrmCAwzTbY) which is 
 
 *HungerChange = -40,* is filling our hunger bar up by 40%, adding a prefix to the item name prevents mod collisions *HS_DriedSteak*
 
-Animations actions in folder */media/AnimSets/player/actions/*
+Animations fot the player actions are the in folder */media/AnimSets/player/actions/*
 
 icons need to have the *item_* prefix and be a *.png*
 
