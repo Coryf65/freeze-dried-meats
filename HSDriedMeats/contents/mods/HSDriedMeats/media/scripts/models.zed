@@ -1,8 +1,29 @@
 module HSDriedMeats
 {
+    model HS_DriedMeatCan_Ground
+    {
+        mesh=WorldItems/CanClosedCornerBeef,
+        texture= WorldItems/HS_DriedMeatCan_Ground,
+        scale= 0.4,
+    }
+
+    model HS_DriedSteak_Ground
+    {
+        mesh=WorldItems/Steak,
+        texture= WorldItems/name,
+        scale= 0.4,
+    }
+
     model HS_DriedChicken_Ground
     {
-        mesh=WorldItems/Magazine,
+        mesh=WorldItems/Chicken,
+        texture= WorldItems/name,
+        scale= 0.4,
+    }
+
+    model HS_DriedPorkChop_Ground
+    {
+        mesh=WorldItems/PorkChop,
         texture= WorldItems/name,
         scale= 0.4,
     }

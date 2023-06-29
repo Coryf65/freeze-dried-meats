@@ -49,8 +49,9 @@ Awesome YouTube tutorial by [W. Patrick](https://youtu.be/-yrmCAwzTbY) which is 
 
 ### System Locations
 
-- path to the Project Zomboid mods folder, using Steam */home/cory/Zomboid/*
-- path to my steam pz install */mnt/87018097-feeb-4ec6-8184-f926d4463609/SteamLibrary/steamapps/common/ProjectZomboid/projectzomboid/*
+- path to the Project Zomboid mods folder, using Steam (Linux) */home/cory/Zomboid/*
+- path to my steam pz install */SteamLibrary/steamapps/common/ProjectZomboid/projectzomboid/*
+- vanilla exmaple files */*
 
 ### Project Zomboid links
 

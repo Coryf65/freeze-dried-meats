@@ -5,14 +5,14 @@ module HSDriedMeats
         DisplayCategory = Food,
         Weight = 0.2,
         Type = Normal,
-        DisplayName	= Dried Meat Package,
+        DisplayName	= Package of Dried Meat,
         Icon = MeatPackageClosed.png,
-		WorldStaticModel = CanClosedCornerBeef,
+		WorldStaticModel = HS_DriedMeatCan_Ground,
     }
 
     item HS_DriedSteak
     {
-        DisplayName = Dried Steak,
+        DisplayName = Freeze-Dried Steak,
         DisplayCategory = Food,
         Type = Food,
         Weight = 0.15,
@@ -24,12 +24,12 @@ module HSDriedMeats
         Carbohydrates = 0,
         Lipids = 8,
         Proteins = 25,
-        WorldStaticModel = HS_DriedSteak,
+        WorldStaticModel = HS_DriedSteak_Ground,
     }
 
     item HS_DriedChicken
 	{
-		DisplayName = Dried Chicken,
+		DisplayName = Freeze-Dried Chicken,
 		DisplayCategory = Food,
 		Type = Food,
 		Weight = 0.15,
@@ -42,12 +42,12 @@ module HSDriedMeats
 		Lipids = 8,
 		Proteins = 15,
 		StaticModel = FriedChicken,
-		WorldStaticModel = HS_DriedChicken,
+		WorldStaticModel = HS_DriedChicken_Ground,
 	}
 
     item HS_DriedPorkChop
 	{
-		DisplayName = Dried Pork Chop,
+		DisplayName = Freeze-Dried Pork Chop,
 		DisplayCategory = Food,
 		Type = Food,
 		Weight = 0.15,
@@ -60,6 +60,6 @@ module HSDriedMeats
 		Lipids = 7,
 		Proteins = 15,
 		WorldStaticModel = PorkChop,
-		EvolvedRecipeName = HS_DriedPorkChop,
+		EvolvedRecipeName = HS_DriedPorkChop_Ground,
 	}
 }
