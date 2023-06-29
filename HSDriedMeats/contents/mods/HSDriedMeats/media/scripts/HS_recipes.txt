@@ -2,10 +2,8 @@ module HSDriedMeats
 {
     recipe Open Meat Package
     {
-        // components or items to craft this recipe
         HS_DriedMeatBag,
 
-        // output
         Result:TinCanEmpty,
         Time:60.0,
         Category:Cooking,

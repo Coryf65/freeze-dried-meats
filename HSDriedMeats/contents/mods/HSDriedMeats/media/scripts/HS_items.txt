@@ -5,8 +5,8 @@ module HSDriedMeats
         DisplayCategory = Food,
         Weight = 0.15,
         Type = Normal,
-        DisplayName	= Dried Meat Bag,
-        Icon = HS_DriedMeatBag,
+        DisplayName	= Dried Meat Package,
+        Icon = HS_MeatPackageClosed.png,
     }
 
     item HS_DriedSteak
