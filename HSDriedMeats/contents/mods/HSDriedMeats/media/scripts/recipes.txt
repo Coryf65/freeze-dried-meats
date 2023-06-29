@@ -20,6 +20,7 @@ module HSDriedMeats
         Category:Cooking,
 		OnGiveXP:Recipe.OnGiveXP.Cooking3,
 		AnimNode:Pour
+        Sound:waterSplash
 
     }
 
@@ -33,6 +34,7 @@ module HSDriedMeats
         Category:Cooking,
 		OnGiveXP:Recipe.OnGiveXP.Cooking3,
 		AnimNode:Pour
+        Sound:waterSplash
 	}
 
     recipe Rehydrate PorkChop
@@ -45,5 +47,6 @@ module HSDriedMeats
         Category:Cooking,
 		OnGiveXP:Recipe.OnGiveXP.Cooking3,
 		AnimNode:Pour
+        Sound:waterSplash
 	}
 }
