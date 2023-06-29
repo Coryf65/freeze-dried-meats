@@ -67,4 +67,6 @@ Awesome YouTube tutorial by [W. Patrick](https://youtu.be/-yrmCAwzTbY) which is 
 
 Animations actions in folder */media/AnimSets/player/actions/*
 
+icons need to have the *item_* prefix and be a *.png*
+
 </details>
