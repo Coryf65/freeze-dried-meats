@@ -10,7 +10,7 @@ module HSDriedMeats
         Time:60.0,
         Category:Cooking,
 		OnCreate:Recipe.OnCreate.HSGiveRandomMeat,
-    }e
+    }
         
     recipe Rehydrate Steak
     {

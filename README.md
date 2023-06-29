@@ -45,7 +45,7 @@ Awesome YouTube tutorial by [W. Patrick](https://youtu.be/-yrmCAwzTbY) which is 
 - it has an awesome extension for Project Zomboid [PZ extension](https://marketplace.visualstudio.com/items?itemName=asledgehammer.zedscript-vscode) you can also search within VSCode extensions.
 - Image editor I use [GIMP](https://www.gimp.org/downloads/) feel free to use whatever you are comfortable with. Icons are 32x32 pixels
 
-- add `-debug` into launch options of steam for Project Zomboid
+- add `-debug` into launch options of steam for Project Zomboid, allows spawning of your modded iems
 
 ### System Locations
 
