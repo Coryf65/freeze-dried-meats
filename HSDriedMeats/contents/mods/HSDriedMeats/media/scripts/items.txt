@@ -6,7 +6,7 @@ module HSDriedMeats
         Weight = 0.15,
         Type = Normal,
         DisplayName	= Dried Meat Package,
-        Icon = HS_MeatPackageClosed.png,
+        Icon = MeatPackageClosed.png,
     }
 
     item HS_DriedSteak
@@ -15,7 +15,7 @@ module HSDriedMeats
         DisplayCategory = Food,
         Type = Food,
         Weight = 0.2,
-        Icon = HS_DriedSteak,
+        Icon = DriedSteak,
         FoodType = DriedMeat,
         HungerChange = -30,
 		ThirstChange = 20,
@@ -32,7 +32,7 @@ module HSDriedMeats
 		DisplayCategory = Food,
 		Type = Food,
 		Weight = 0.2,
-		Icon = HS_DriedChicken,
+		Icon = DriedChicken,
 		FoodType = DriedMeat,
 		HungerChange = -26,
 		ThirstChange = 20,
@@ -50,7 +50,7 @@ module HSDriedMeats
 		DisplayCategory = Food,
 		Type = Food,
 		Weight = 0.2,
-		Icon = HS_DriedPorkchop,		
+		Icon = DriedPorkchop,		
 		FoodType = DriedMeat,
 		HungerChange = -26,
 		ThirstChange = 20,
