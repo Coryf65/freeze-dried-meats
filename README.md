@@ -70,4 +70,6 @@ Animations fot the player actions are the in folder */media/AnimSets/player/acti
 
 icons need to have the *item_* prefix and be a *.png*
 
+make a procedural dist file to spawn items arounf the pz world
+
 </details>
