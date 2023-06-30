@@ -3,7 +3,7 @@ module HSDriedMeats
     model HS_DriedMeatCan_Ground
     {
         mesh=WorldItems/CanClosedCornerBeef,
-        texture= WorldItems/HS_DriedMeatCan_Ground,
+        texture= WorldItems/_Ground,
         scale= 0.4,
     }
 
